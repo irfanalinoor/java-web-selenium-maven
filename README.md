@@ -1,6 +1,5 @@
 # Java WebTests Automation Project
 
-----
 ## Overview
 * This is simple project to showcase Web Test Automation in Java.
 * Project uses Selenium WebDriver
@@ -12,7 +11,6 @@
 * **Assertion Lib:** Selenium, WebDriver
 * **CI/CD:** CircleCI (To Be Added)
 
-----
 ## Setup
 - Download [JavaWebAutomation](https://github.com/irfanalinoor/JavaWebAutomation) Project from GitHub.
 - Install latest [Java SDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
@@ -38,7 +36,6 @@ browserType type = browserType.CHROME_MAC;
 - Run Tests or Press **Alt+Shift+F10**.
 
 
-----
 ## Concepts Used
 - Java
 - Selenium (WebDriver)
@@ -46,7 +43,7 @@ browserType type = browserType.CHROME_MAC;
 - PageObject
 - Data-Driver (read input and expected data from Json)
 
-----
+
 ## Sample Tests:
 ### Case 1
     Scenario:  Validate that search SHOULD display desired result and navigate to page

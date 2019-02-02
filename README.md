@@ -7,7 +7,7 @@
 * **Languages:** Java
 * **SCM:** Git
 * **Build/Dependency Management:** Maven
-* **Testing:** Data-Driven
+* **Testing:** Data-Driven (Json Data)
 * **Assertion Lib:** Selenium, WebDriver
 * **CI/CD:** CircleCI (To Be Added)
 
@@ -34,14 +34,6 @@ browserType type = browserType.CHROME_MAC;
 ```
 
 - Run Tests or Press **Alt+Shift+F10**.
-
-
-## Concepts Used
-- Java
-- Selenium (WebDriver)
-- JUnit
-- PageObject
-- Data-Driver (read input and expected data from Json)
 
 
 ## Sample Tests:

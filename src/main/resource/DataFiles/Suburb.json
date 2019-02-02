@@ -1,0 +1,17 @@
+{
+  "Suburb" :
+  [
+    {
+      "suburbName": "Sydney 2000",
+      "serviceCenter": "Marrickville Service Centre"
+    },
+    {
+      "suburbName": "Kogarah 2217",
+      "serviceCenter": "Hurstville Service Centre"
+    },
+    {
+      "suburbName": "Sydney Domestic Airport 2020",
+      "serviceCenter": "Rockdale Service Centre"
+    }
+  ]
+}

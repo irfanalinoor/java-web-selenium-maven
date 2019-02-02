@@ -1,4 +1,4 @@
-# Java WebTests Automation (Selenium)
+# Java WebTests Automation Project
 
 ----
 ## Overview

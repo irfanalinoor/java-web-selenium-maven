@@ -21,7 +21,7 @@
 >In case of dependency conflicts, **Press Ctrl key** (twice) and enter following commands.
     `mvn clean install -U` and `mvn dependency::tree`
 
-- Go to **.\JavaWebAutomation\src\test\java\NSW\Tests\ServiceTests.java** *line 26*
+- Go to **.\JavaWebAutomation\src\test\java\WebTests\ServiceTests.java** *line 26*
 
 >For Windows, set browser type to Chrome_Win
 ```

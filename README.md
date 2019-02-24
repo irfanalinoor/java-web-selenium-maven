@@ -1,4 +1,4 @@
-# Java WebTests Automation Project
+# Java Web-Selenium Automation Project
 
 ## Overview
 * This is simple project to showcase Web Test Automation in Java.

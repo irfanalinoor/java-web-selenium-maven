@@ -12,7 +12,7 @@
 * **CI/CD:** CircleCI (To Be Added)
 
 ## Setup
-- Download [JavaWebAutomation](https://github.com/irfanalinoor/JavaWebAutomation) Project from GitHub.
+- Download [java-web-selenium-maven](https://github.com/irfanalinoor/java-web-selenium-maven) Project from GitHub.
 - Install latest [Java SDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 - Install latest [IntelliJ IDEA Community](https://www.jetbrains.com/idea/).
 - Open Project **JavaWebAutomation**.
